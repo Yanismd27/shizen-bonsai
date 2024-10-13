@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+    --color-earth: #8B4513;
+    --color-leaf: #4CAF50;
+    --color-sand: #F4A460;
+    --color-stone: #708090;
+    --color-wood: #D2691E;
+    --color-zen: #F5F5DC;
+  }
